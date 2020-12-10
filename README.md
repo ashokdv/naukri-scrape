@@ -1,4 +1,4 @@
-# naukri-scrape
+# Scrape naukri.com
 
 ### Tools / Packages used
 selenium
