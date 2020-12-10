@@ -1,7 +1,7 @@
 # naukri-scrape
 
-# Tools / Packages used
+### Tools / Packages used
 selenium
 
-#Programming language
+### Programming language
 Python
